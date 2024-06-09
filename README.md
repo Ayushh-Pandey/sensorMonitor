@@ -1,4 +1,4 @@
-# Speedometer FullStack Application
+# senor monitor FullStack Application
 
 ## Tech Used :
 - **Frontend**: React
