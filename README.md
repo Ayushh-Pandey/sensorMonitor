@@ -1,4 +1,4 @@
-# senor monitor FullStack Application
+# sensor monitor FullStack Application
 
 ## Tech Used :
 - **Frontend**: React
